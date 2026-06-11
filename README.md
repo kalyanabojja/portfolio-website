@@ -6,7 +6,7 @@ A fully responsive personal portfolio website built with **HTML**, **CSS**, and 
 
 ## 🌐 Live Demo
 
-🔗 [`https://kalyanabojja.github.io/portfolio-website/`](#)
+🔗 [ https://kalyanabojja.github.io/FUTURE_FS_1/`](#)
 
 ---
 
@@ -93,7 +93,7 @@ Three project cards, each with:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/kalyanabojja/portfolio-website.git
+git clone our site is live at https://kalyanabojja.github.io/FUTURE_FS_1/.git
 cd portfolio
 ```
 
@@ -126,7 +126,7 @@ Or simply double-click `index.html` to open in your browser.
 1. Push all files to a GitHub repository
 2. Go to repo → **Settings** → **Pages**
 3. Set Source: `main` branch → `/ (root)` → **Save**
-4. Live at: `https://kalyanabojja.github.io/portfolio-website/`
+4. Live at: https://kalyanabojja.github.io/FUTURE_FS_1/
 
 ### ✅ Netlify (Recommended)
 
